@@ -19,7 +19,7 @@ a:hover{
     position:fixed;
     top:0px;
     left:0px;
-    height:50px;
+    min-height:50px;
     word-spacing: 1.8em;
     font-size: 18px;
     line-height: 1em;
